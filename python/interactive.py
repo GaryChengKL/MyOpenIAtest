@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # Assistant ID (can be a hard-coded ID)
-ASSISTANT_ID = 'YOUR_ASSISTANT_ID'
+ASSISTANT_ID = 'asst_ILnCfofzWHDopGcohyI70Hko'
 
 # Load environment variables
 dotenv_path = os.path.join(os.path.dirname(__file__), '..', '.env')
